@@ -1,0 +1,10 @@
+edu-metrics-dashboard/
+│
+├── streamlit_app.py          # The main Streamlit application code
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project description
+├── .streamlit/
+│   └── config.toml           # Streamlit theme configuration
+└── data/
+    ├── G05_ExamB_Analysis.xlsx               # Raw data
+    └── Combined_Zone_Marks_Analysis_Report.xlsx # Pre-computed analytics
